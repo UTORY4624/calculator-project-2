@@ -18,5 +18,8 @@
     "eslint": "^10.4.0",
     "globals": "^17.6.0",
     "http-server": "^14.1.1"
+  },
+  "devDependencies": {
+    "jest": "^30.4.2"
   }
 }
